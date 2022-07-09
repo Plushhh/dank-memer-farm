@@ -1,5 +1,5 @@
 ## DISCLAIMER:
-I'm not responsible for anything that happens to your account. Discord self bots are against Discord TOS, if anyone wanted you terminated they could simply report you and tell them you're using a self bot, also self bots violate dank memer's rules. So if you are caught it's game over. Read the enitre README.md
+I'm not responsible for anything that happens to your account. Discord self bots are against Discord TOS, if anyone wanted you terminated they could simply report you and tell them you're using a self bot, also self bots violate dank memer's rules. So if you are caught it's game over. Read the enitre README.md. This was made to show how easy it is to use discord's api in a malicious way.
 
 ## Requirements:
 Open up the directory where the file is and type `pip install -r requirements.txt`
